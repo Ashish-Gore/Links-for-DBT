@@ -8,3 +8,4 @@
 
 4. DBT Desktop POS64: https://drive.google.com/file/d/1nfCvH-ZLIc4gx0T-nhHJUjwBnqoi73J_/view?usp=drivesdk
 
+5. DBT Desktop POS32: http://www.mediafire.com/file/n8a8bpsip1shgm6/FertPOSBIT32...3.1.exe/file
